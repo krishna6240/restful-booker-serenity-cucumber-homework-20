@@ -1,0 +1,4 @@
+com\restfulbooker\AppTest.class
+com\restfulbooker\testbase\TestBase.class
+com\restfulbooker\cucumber\CucumberRunner.class
+com\restfulbooker\cucumber\steps\BookingCRUDSteps.class
